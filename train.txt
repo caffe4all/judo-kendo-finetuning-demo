@@ -1,0 +1,10 @@
+judo/judo1.jpg 0
+judo/judo3.jpg 0
+judo/judo5.jpg 0
+judo/judo7.jpg 0
+judo/judo9.jpg 0
+kendo/kendo1.jpg 1
+kendo/kendo3.jpg 1
+kendo/kendo5.jpg 1
+kendo/kendo7.jpg 1
+kendo/kendo9.jpg 1
