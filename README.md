@@ -25,11 +25,11 @@ NOTE: you will get a trained model binary in $DEMO_HOME/snapshots directory
 
 4) Finetune the pre-trained bvlc_alexnet
 
-`$ CAFFE_HOME/build/tools/caffe train -solver bvlc_alexnet_finetuned/solver.prototxt -weights bvlc_alexnet_finetuned/bvlc_alexnet.caffemodel`
+`$ $CAFFE_HOME/build/tools/caffe train -solver bvlc_alexnet_finetuned/solver.prototxt -weights bvlc_alexnet_finetuned/bvlc_alexnet.caffemodel`
 
 5) Finetune the pre-trained nin
 
-`$ CAFFE_HOME/build/tools/caffe train -solver nin_finetuned/solver.prototxt -weights nin_finetuned/nin_imagenet.caffemodel`
+`$ $CAFFE_HOME/build/tools/caffe train -solver nin_finetuned/solver.prototxt -weights nin_finetuned/nin_imagenet.caffemodel`
 
 ## CLASSIFICATION and VISUALIZATION ##
 
